@@ -6,6 +6,8 @@ public class ClassB {
 	@Test
 	public void demo2() {
 		System.out.println("change and push code");
+		
+		System.out.println("hii");
 	}
 
 }
