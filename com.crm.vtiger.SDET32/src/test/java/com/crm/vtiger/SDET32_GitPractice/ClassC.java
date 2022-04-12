@@ -6,5 +6,6 @@ public class ClassC {
 @Test
 public void demo3() {
 	System.out.println("newly added class");
+	System.out.println("newly added class");
 }
 }
