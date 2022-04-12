@@ -7,5 +7,6 @@ public class ClassC {
 public void demo3() {
 	System.out.println("newly added class");
 	System.out.println("newly added class");
+	int a=2;
 }
 }
